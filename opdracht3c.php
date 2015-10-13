@@ -4,7 +4,7 @@
 
 	Volgens het blaadje: de code van vraag b mag niet in het script opgenomen worden.
 	Ik neem aan dat hiermee bedoelt wordt dat de code niet overgetypt mag worden zoals hieronder.
-	En dat je aangemoedigt wordt om het bestand opdracht3b.php te includen.
+	En dat je aangemoedigd wordt om het bestand opdracht3b.php te includen.
 */
 
 /*function pyramideNummerDing($length = 9) {
